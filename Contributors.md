@@ -2050,7 +2050,6 @@ Aman S
 - [Shivam Kalra](https://github.com/shivamkalra13)
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
 - [Falconbrunch](https://github.com/Falconbrunch)
-- [Fahad Hussain](https://github.com/fahad-dev)
 - [Joshua Quan](https://github.com/JMQ0598)
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
@@ -4616,6 +4615,7 @@ Jairo Martinez
 - [Sarah Noonan](https://github.com/snoonan11)
 - [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
+- [Fahad Hussain](https://github.com/fahad-dev)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
 - Midhun Asokkumar Padma
