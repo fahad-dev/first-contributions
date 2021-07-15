@@ -1,4 +1,4 @@
-	# Contributors
+﻿	# Contributors
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
@@ -2050,6 +2050,7 @@ Aman S
 - [Shivam Kalra](https://github.com/shivamkalra13)
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
 - [Falconbrunch](https://github.com/Falconbrunch)
+- [Fahad Hussain](https://github.com/fahad-dev)
 - [Joshua Quan](https://github.com/JMQ0598)
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
